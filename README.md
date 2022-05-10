@@ -62,4 +62,4 @@ sudo systemctl -l status common_bot.py
 ```bash
 sudo systemctl -l status private_bot.py
 ```
-example.mp4
+https://github.com/rus121/vk_bot/blob/main/example.mp4
