@@ -62,3 +62,4 @@ sudo systemctl -l status common_bot.py
 ```bash
 sudo systemctl -l status private_bot.py
 ```
+example.mp4
