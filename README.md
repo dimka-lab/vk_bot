@@ -1,4 +1,4 @@
-# vk_bot
+# vk_bot developer brain
 # Chat Bot for social media vk
 Usage example:
 ![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)
