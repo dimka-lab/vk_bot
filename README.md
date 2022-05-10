@@ -9,14 +9,12 @@
 - Common_bot: you need to join community in your chat, also to send and take messages in the chats the admin of the conversation should give the bot full access to the conversation or mention the community like @club012345 or @community_name every time  it's needed
 - Private_bot: to begin the communication it's recommended to push button "Начать", without it bot will not be able to interact with the user
 ## Using
-Download the script 
+Download the script as user 'user'
 ```bash
-su - user
-git clone https://github.com/rus121/vk_bot.git
+su - user 
 ```
-Open the folder
 ```bash
-cd vk_bot
+git clone https://github.com/rus121/vk_bot.git | cd vk_bot
 ```
 Make sure the python binaries are in /usr/bin/python3 as usual e.g in ubuntu 
 ```bash
