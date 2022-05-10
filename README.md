@@ -1,5 +1,7 @@
 # vk_bot
 # Chat Bot for social media vk
+Usage example:
+![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)
 - **private_bot.py** script can send only private messages 
 - **common_bot.py** this script send messages in the common chats(беседах) only
 ## Requirements:
@@ -62,5 +64,4 @@ sudo systemctl -l status common_bot.py
 ```bash
 sudo systemctl -l status private_bot.py
 ```
-Usage example:
-![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)
+
