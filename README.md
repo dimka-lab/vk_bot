@@ -34,7 +34,7 @@ sudo mv picture.jpg /usr/local/bin/myfolder_with_bot_files
 ```bash
 sudo mv private_bot.py /usr/local/bin/myfolder_with_bot_files
 ```
-Move systemd units in required folder:
+Move systemd units in required folder and run sevices:
 ```bash
 sudo mv private_bot.service /etc/systemd/system
 ```
@@ -62,4 +62,3 @@ sudo systemctl -l status common_bot.py
 ```bash
 sudo systemctl -l status private_bot.py
 ```
-https://github.com/rus121/vk_bot/blob/main/example.mp4
