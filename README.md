@@ -11,6 +11,7 @@
 ## Using
 Download the script 
 ```bash
+su - user
 git clone https://github.com/rus121/vk_bot.git
 ```
 Open the folder
