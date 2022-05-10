@@ -62,5 +62,5 @@ sudo systemctl -l status common_bot.py
 ```bash
 sudo systemctl -l status private_bot.py
 ```
-
-[![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)]
+Usage example:
+![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)
