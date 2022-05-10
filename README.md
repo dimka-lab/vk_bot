@@ -13,6 +13,10 @@ Make sure the python binaries are in /usr/bin/python3 as usual e.g in ubuntu
 ```bash
 which python3
 ```
+Install libraries:
+```bash
+pip install -r requirements.txt
+```
 Move projects files into folder with user's binaries
 ```bash
 sudo mv common_bot.py /usr/local/bin/myfolder_with_bot_files
