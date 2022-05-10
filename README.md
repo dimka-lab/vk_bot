@@ -1,8 +1,8 @@
 # vk_bot
 # Chat Bot for social media vk
-- private_bot.py script can send only private messages 
-- common_bot.py this script send messages in the common chats(беседах) only
-**Requirements:**
+- **private_bot.py** script can send only private messages 
+- **common_bot.py** this script send messages in the common chats(беседах) only
+**\nRequirements:**
 - Python3
 - Systemd to run unit
 - To interact with the bot, you need a group on the VK social network and access to it - a token with all the necessary permissions
