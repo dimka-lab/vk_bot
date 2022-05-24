@@ -24,7 +24,7 @@ which python3
 ```
 Install libraries:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 Move projects files into folder with user's binaries
 ```bash
