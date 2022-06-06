@@ -28,20 +28,20 @@ pip3 install -r requirements.txt
 ```
 Move projects files into folder with user's binaries
 ```bash
-sudo mv common_bot.py /usr/local/bin/myfolder_with_bot_files
+mv common_bot.py /usr/local/bin/myfolder_with_bot_files
 ```
 ```bash
-sudo mv picture.jpg /usr/local/bin/myfolder_with_bot_files
+mv picture.jpg /usr/local/bin/myfolder_with_bot_files
 ```
 ```bash
-sudo mv private_bot.py /usr/local/bin/myfolder_with_bot_files
+mv private_bot.py /usr/local/bin/myfolder_with_bot_files
 ```
 Move systemd units in required folder and run sevices:
 ```bash
-sudo mv private_bot.service /etc/systemd/system
+mv private_bot.service /etc/systemd/system
 ```
 ```bash
-sudo mv common_bot.service /etc/systemd/system
+mv common_bot.service /etc/systemd/system
 ```
 ```bash
 sudo systemctl daemon-reload
