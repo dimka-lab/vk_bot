@@ -1,9 +1,6 @@
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
-import random
-import requests
-import time
-import datetime
+import random, requests, time, datetime
 
 #def for writing messages from bot to user
 def write_msg(user_id, message):

@@ -1,8 +1,6 @@
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
-import random
-import requests
-import time
-import datetime
+import random, requests
+import time, datetime
 import vk_api, vk
 from vk_api.utils import get_random_id
 from vk_api.upload import VkUpload

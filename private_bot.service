@@ -6,9 +6,9 @@ After=network.target
 Type=simple
 User=user
 Group=user
-Environment=PYTHONPATH=/usr/local/bin/myfolder_with_bot_files
-WorkingDirectory=/usr/local/bin/myfolder_with_bot_files
-ExecStart=/usr/bin/python3 /usr/local/bin/myfolder_with_bot_files/private_bot.py
+Environment=PYTHONPATH=/usr/local/bin/folder_with_bot_files
+WorkingDirectory=/usr/local/bin/folder_with_bot_files
+ExecStart=/usr/bin/python3 /usr/local/bin/folder_with_bot_files/private_bot.py
 Restart=always
 RestartSec=10
 
