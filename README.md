@@ -1,5 +1,5 @@
-# vk_bot
-# Chat Bot for social media vk
+# vk bot
+# Chat Bot for social media vk.com
 Usage example:
 ![Example](https://github.com/rus121/vk_bot/blob/main/example.gif)
 - **private_bot.py** script can send only private messages 
